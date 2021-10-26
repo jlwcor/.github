@@ -1,0 +1,3 @@
+feature: ['feature/*', 'feat/*', 'bugfix/*']
+bugfix: bugfix/*
+fixed-branch: fixed-branch-name
